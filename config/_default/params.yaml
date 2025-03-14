@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Farhan's Personal Portfolio"
+      text: ""
 
 # Site footer
 footer:
