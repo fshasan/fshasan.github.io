@@ -54,8 +54,8 @@ interests:
 education:
   - area: MS Data Science
     institution: University of North Texas
-    date_start: 2025-01
-    date_end: 2027-05
+    date_start: 2025-01-17
+    date_end: 2027-05-30
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -64,8 +64,8 @@ education:
   
   - area: BS Computer Science and Engineering
     institution: Ahsanullah University of Science and Technology
-    date_start: 2017-11
-    date_end: 2022-07
+    date_start: 2017-11-09
+    date_end: 2022-07-06
   #   summary: |
   #     GPA: 3.8/4.0
 
