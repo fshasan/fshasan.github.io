@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Farhan_Sharukh_Hasan_CV_updated.pdf
     design:
       css_class: dark
       background:
