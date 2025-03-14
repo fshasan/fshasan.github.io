@@ -2,16 +2,16 @@
 # Display name
 title: Farhan Sharukh Hasan
 
-# Name pronunciation (optional)
-name_pronunciation: Farhan Sharukh Hasan
+# # Name pronunciation (optional)
+# name_pronunciation: Farhan Sharukh Hasan
 
-# Full name (for SEO)
-first_name: Farhan
-last_name: Hasan
+# # Full name (for SEO)
+# first_name: Farhan
+# last_name: Hasan
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 # superuser: true
@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sharukh75hasan@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/fshasanx
-  - icon: brands/instagram
-    url: https://www.instagram.com/fshasanz
+  # - icon: brands/x
+  #   url: https://twitter.com/fshasanx
+  # - icon: brands/instagram
+  # url: https://www.instagram.com/fshasanz
   - icon: brands/github
     url: https://github.com/fshasan
   - icon: brands/linkedin
